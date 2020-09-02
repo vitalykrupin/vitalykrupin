@@ -1,5 +1,5 @@
 ### Hi, there! 👋
-I'm frontend developer in "Ingortech" company.
+I'm software engineer in "Ingortech" company.
 
 Skills:  React / JavaScript / TypeScript / HTML / CSS
 
