@@ -1,4 +1,4 @@
-### Hi! I'm Vitaly 👋
+### Hi, there! 👋
 I'm frontend developer in "Ingortech" company.
 
 Skills:  React / JavaScript / TypeScript / HTML / CSS
